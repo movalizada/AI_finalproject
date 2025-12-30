@@ -1,4 +1,4 @@
-# [cite_start]KNN Machine Learning for Cancer Detection [cite: 1]
+# KNN Machine Learning for Cancer Detection
 
 [cite_start]This project explores the application of Machine Learning in biomedical analysis, specifically focusing on predicting cancer presence using the K-Nearest Neighbors (KNN) algorithm. [cite: 3, 5]
 
